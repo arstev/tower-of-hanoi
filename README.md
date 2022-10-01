@@ -18,8 +18,10 @@ move disk 1 from tower A to tower C
 You can run it in https://dotnetfiddle.net/. 
 1. Menu -> NEW 
 2. Select Language -> C# 
-3. Paste this code & RUN
+3. Copy and Paste this code below
+4 Go back to https://dotnetfiddle.net and Select Menu -> Run
 
+>
 using System;					
 public class Program
 {
