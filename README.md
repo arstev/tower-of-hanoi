@@ -28,12 +28,11 @@ public class Program
            var n = 3; // disks           
            towerOfHanoi(n, 'A', 'B', 'C');// source ,  auxil, destin,  
 	}	
-	   static void towerOfHanoi(int n, char from_Tower,char helper_Tower, char to_Tower )
+	static void towerOfHanoi(int n, char from_Tower,char helper_Tower, char to_Tower )
         {
             if (n > 0)
             {            
-            towerOfHanoi(n - 1, from_Tower,to_Tower, helper_Tower);
-            // showing a step
+            towerOfHanoi(n - 1, from_Tower,to_Tower, helper_Tower);            
             Console.WriteLine("move disk " + n + " from tower " + from_Tower + " to tower " + to_Tower);
             towerOfHanoi(n - 1, helper_Tower, from_Tower, to_Tower);
             }            
