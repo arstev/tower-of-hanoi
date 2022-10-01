@@ -40,5 +40,4 @@ public class Program
         }    
 }
 
-![Capture](https://user-images.githubusercontent.com/6586322/193430676-2d35364a-d186-44a8-b6c1-d3c73cd5ebb5.PNG)
 ![Capture](https://user-images.githubusercontent.com/6586322/193430682-24459b2a-e01e-4b06-9972-2762fbc70c29.PNG)
