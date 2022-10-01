@@ -1,6 +1,8 @@
 There are 2 ways to run it:
 
 1st This program need to Visual studio code installed on your Pc
+see code in 
+https://github.com/arstev/tower-of-hanoi/blob/main/Program.cs
 
 If you have three disks
 The program will solve this in 7 Steps :
