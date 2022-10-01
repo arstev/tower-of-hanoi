@@ -35,6 +35,7 @@ public class Program
             towerOfHanoi(n - 1, from_Tower,to_Tower, helper_Tower);
             // showing a step
             Console.WriteLine("move disk " + n + " from tower " + from_Tower + " to tower " + to_Tower);
+
             towerOfHanoi(n - 1, helper_Tower, from_Tower, to_Tower);
             }            
         }    
