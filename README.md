@@ -18,7 +18,7 @@ You can run it in https://dotnetfiddle.net/.
 1. Menu -> NEW 
 2. Select Language -> C# 
 3. Copy and Paste this code below
-4. Go back to https://dotnetfiddle.net and Select Menu -> Run
+4. In https://dotnetfiddle.net and Select Menu -> Run
 
 using System;					
 public class Program
@@ -39,3 +39,4 @@ public class Program
             }            
         }    
 }
+
