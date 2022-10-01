@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# tower-of-hanoi
-=======
 if you have a Visual studio installed 
 run command -> "dotnet run" 
 
@@ -14,4 +11,4 @@ move disk 3 from tower A to tower C
 move disk 1 from tower B to tower A
 move disk 2 from tower B to tower C
 move disk 1 from tower A to tower C
->>>>>>> 36faa12 (my 2nd)
+
