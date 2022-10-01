@@ -1,0 +1,16 @@
+C:\MOE\Puzzle\bin\Debug\net5.0\Puzzle.exe
+C:\MOE\Puzzle\bin\Debug\net5.0\Puzzle.deps.json
+C:\MOE\Puzzle\bin\Debug\net5.0\Puzzle.runtimeconfig.json
+C:\MOE\Puzzle\bin\Debug\net5.0\Puzzle.runtimeconfig.dev.json
+C:\MOE\Puzzle\bin\Debug\net5.0\Puzzle.dll
+C:\MOE\Puzzle\bin\Debug\net5.0\ref\Puzzle.dll
+C:\MOE\Puzzle\bin\Debug\net5.0\Puzzle.pdb
+C:\MOE\Puzzle\obj\Debug\net5.0\Puzzle.csproj.AssemblyReference.cache
+C:\MOE\Puzzle\obj\Debug\net5.0\Puzzle.GeneratedMSBuildEditorConfig.editorconfig
+C:\MOE\Puzzle\obj\Debug\net5.0\Puzzle.AssemblyInfoInputs.cache
+C:\MOE\Puzzle\obj\Debug\net5.0\Puzzle.AssemblyInfo.cs
+C:\MOE\Puzzle\obj\Debug\net5.0\Puzzle.csproj.CoreCompileInputs.cache
+C:\MOE\Puzzle\obj\Debug\net5.0\Puzzle.dll
+C:\MOE\Puzzle\obj\Debug\net5.0\ref\Puzzle.dll
+C:\MOE\Puzzle\obj\Debug\net5.0\Puzzle.pdb
+C:\MOE\Puzzle\obj\Debug\net5.0\Puzzle.genruntimeconfig.cache
